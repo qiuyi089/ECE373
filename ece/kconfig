@@ -1,0 +1,7 @@
+config (my_driver)
+	tristate "dung4"
+	depends on PCI
+
+
+
+
